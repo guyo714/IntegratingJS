@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "operators",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SleekDiamond41/Operators.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "164d86aa05edc0cdc79fb55e9701272b09e6b364"
+      }
+    }
+  ],
+  "version" : 2
+}
